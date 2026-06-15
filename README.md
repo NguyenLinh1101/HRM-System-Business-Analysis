@@ -1,19 +1,28 @@
 # HRM System Business Analysis
 
 ## 📌 Project Overview
-Business analysis and system design for HR management system (40 employees).
+This project focuses on analyzing and designing a Human Resource Management System for a company with 40 employees.
 
-## 📌 Scope
-- Recruitment
-- Attendance
-- Payroll
-- Employee management
+## 📌 Business Scope
+- Recruitment Management
+- Employee Management
+- Attendance Tracking
+- Payroll Calculation
+- Reporting & Decision Making
 
 ## 📌 My Role
 Business Analyst
 
+## 📌 Responsibilities
+- Requirement gathering
+- Business process modeling
+- User story creation
+- Use case design
+- Data modeling (ERD)
+
 ## 📌 Key Deliverables
-- Business process modeling (BPMN)
-- Use case diagrams
-- User stories
-- ERD design
+- Business Process Documents
+- User Stories (Epic 1–6)
+- Use Case Diagrams
+- ERD Diagram
+- Payroll & Attendance Process Design
